@@ -1,0 +1,30 @@
+a {
+  text-decoration: none !important;
+  color: black !important;
+  font-weight: bolder;
+}
+
+button {
+  color: blue !important;
+  background-color: white !important;
+  border: 1px solid blue !important;
+}
+
+li {
+  list-style: none !important;
+}
+
+#customers {
+  margin: auto !important;
+}
+
+#first {
+  background-image: url(images/vector-1.png);
+  background-repeat: no-repeat;
+}
+
+#second {
+  background-image: url(images/vector.png);
+  background-repeat: no-repeat;
+  background-position-x: right;
+}
